@@ -28,6 +28,9 @@ public class client {
         }
         scanner.close();
     }
+    private static void hi(){
+        System.out.println("HI");
+    }
 
     public static void main(String[] arg) {
         try {
