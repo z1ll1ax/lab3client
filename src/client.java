@@ -4,6 +4,7 @@ import java.net.*;//импорт пакета, содержащего класс
 import java.util.Scanner;
 
 // работы в сети
+// разбираемся с гит
 public class client {
     private static int[][] matrix = new int[3][3];
     private static void SetArray()
